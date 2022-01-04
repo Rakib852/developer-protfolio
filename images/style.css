@@ -1,0 +1,33 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.orange{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.halp-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.halp-width img{
+    width: 65%;
+}
+.link{
+    text-decoration: none;
+    background-image: -moz-repeating-linear-gradient(45deg, lightsalmon,tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.banner{
+    background-image: url(banner1.png);
+    background-repeat: no-repeat;
+}
